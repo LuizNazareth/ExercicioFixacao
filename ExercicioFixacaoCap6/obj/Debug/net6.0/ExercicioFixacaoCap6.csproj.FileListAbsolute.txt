@@ -1,0 +1,15 @@
+C:\Users\Derlucio Nazareth\Desktop\C#-Curso\ExercicioFixacaoCap6\ExercicioFixacaoCap6\bin\Debug\net6.0\ExercicioFixacaoCap6.exe
+C:\Users\Derlucio Nazareth\Desktop\C#-Curso\ExercicioFixacaoCap6\ExercicioFixacaoCap6\bin\Debug\net6.0\ExercicioFixacaoCap6.deps.json
+C:\Users\Derlucio Nazareth\Desktop\C#-Curso\ExercicioFixacaoCap6\ExercicioFixacaoCap6\bin\Debug\net6.0\ExercicioFixacaoCap6.runtimeconfig.json
+C:\Users\Derlucio Nazareth\Desktop\C#-Curso\ExercicioFixacaoCap6\ExercicioFixacaoCap6\bin\Debug\net6.0\ExercicioFixacaoCap6.dll
+C:\Users\Derlucio Nazareth\Desktop\C#-Curso\ExercicioFixacaoCap6\ExercicioFixacaoCap6\bin\Debug\net6.0\ExercicioFixacaoCap6.pdb
+C:\Users\Derlucio Nazareth\Desktop\C#-Curso\ExercicioFixacaoCap6\ExercicioFixacaoCap6\obj\Debug\net6.0\ExercicioFixacaoCap6.csproj.AssemblyReference.cache
+C:\Users\Derlucio Nazareth\Desktop\C#-Curso\ExercicioFixacaoCap6\ExercicioFixacaoCap6\obj\Debug\net6.0\ExercicioFixacaoCap6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Derlucio Nazareth\Desktop\C#-Curso\ExercicioFixacaoCap6\ExercicioFixacaoCap6\obj\Debug\net6.0\ExercicioFixacaoCap6.AssemblyInfoInputs.cache
+C:\Users\Derlucio Nazareth\Desktop\C#-Curso\ExercicioFixacaoCap6\ExercicioFixacaoCap6\obj\Debug\net6.0\ExercicioFixacaoCap6.AssemblyInfo.cs
+C:\Users\Derlucio Nazareth\Desktop\C#-Curso\ExercicioFixacaoCap6\ExercicioFixacaoCap6\obj\Debug\net6.0\ExercicioFixacaoCap6.csproj.CoreCompileInputs.cache
+C:\Users\Derlucio Nazareth\Desktop\C#-Curso\ExercicioFixacaoCap6\ExercicioFixacaoCap6\obj\Debug\net6.0\ExercicioFixacaoCap6.dll
+C:\Users\Derlucio Nazareth\Desktop\C#-Curso\ExercicioFixacaoCap6\ExercicioFixacaoCap6\obj\Debug\net6.0\refint\ExercicioFixacaoCap6.dll
+C:\Users\Derlucio Nazareth\Desktop\C#-Curso\ExercicioFixacaoCap6\ExercicioFixacaoCap6\obj\Debug\net6.0\ExercicioFixacaoCap6.pdb
+C:\Users\Derlucio Nazareth\Desktop\C#-Curso\ExercicioFixacaoCap6\ExercicioFixacaoCap6\obj\Debug\net6.0\ExercicioFixacaoCap6.genruntimeconfig.cache
+C:\Users\Derlucio Nazareth\Desktop\C#-Curso\ExercicioFixacaoCap6\ExercicioFixacaoCap6\obj\Debug\net6.0\ref\ExercicioFixacaoCap6.dll
